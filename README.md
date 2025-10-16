@@ -1,1 +1,20 @@
-# Udin
+   <!DOCTYPE html>
+   <html>
+   <head>
+          <title>profil saya - Udin</title>
+          <link rel="stylesheet" href="style.css">
+   <\head>
+   <body>
+          <div class="kartu profil">
+          <omg SRC="foto-profil.jpg" alt="foto profil saya">
+          <h1>Nama Lengkap Anda<\h1>
+          <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang
+          <a href="https://instagram.com/fthr.rrr">Kunjungi instagram kami
+          <button id="sapaButton">Sapa Saya! <\button>
+       <\div>
+   <script SRC=script.js><\script>
+     </body>
+     </html>
+            
+          <!-- konten yang terlihat oleh pengunjung akan ada di sini -->
+   <>       
