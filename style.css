@@ -15,7 +15,7 @@ body {
 }
 
 
-. katu-profil IMG {
+. katu-profil img {
      width: 150px;
   border-radius: 50%; /*trik membuat gambar*/
 }
